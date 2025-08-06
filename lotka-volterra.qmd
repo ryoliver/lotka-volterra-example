@@ -11,7 +11,7 @@ editor_options:
 
 ::: {.callout-note}
 ## **Credit:** 
-This code is closely based on the article [Numerically solving differential equations with R](https://rstudio-pubs-static.s3.amazonaws.com/32888_197d1a1896534397b67fb04e0d4899ae.html).
+This code is closely based on the article [Numerically solving differential equations with R](https://rstudio-pubs-static.s3.amazonaws.com/32888_197d1a1896534397b67fb04e0d4899ae.html). One tiny change!
 :::
 
 We'll be using the following packages (aka libraries):
